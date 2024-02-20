@@ -1,9 +1,16 @@
+---
+layout: page
+title: HW2
+permalink: /HW2/
+---
+
+
 <h1>This is a heading</h1>
 <h4>This is a smaller heading</h4>
 
-<P>this is a paragraph</P>
+<P>This is a paragraph</P>
 
-**this will be bold** ~~this will be striked through~~ <u> this will be underlined </u>
+**This will be bold** ~~This will be striked through~~ <u> This will be underlined </u>
 
 <h2>Lists</h2>
 
@@ -23,6 +30,14 @@
 
 <h2>Table</h2>
 
+| **Command** | **Description** |
+| ------------:|:-----------------|
+| git add | Stage changes for commit |
+| git commit | Record changes to the repository | 
+| git push | Upload local repository content to a remote repository |
+
 >This is a quote
 
 [This is a link to google](https://www.google.com)
+
+
